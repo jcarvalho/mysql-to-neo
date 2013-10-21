@@ -1,0 +1,6 @@
+dbAlias=//localhost:3306/database
+
+dbUsername=root
+dbPassword=
+
+dbPath = data/db
